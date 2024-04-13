@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "NBAScores": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7095",
+      "environmentVariables": {
+        "RapidAPIKey": "eb00f5cb4dmsh16119d5815796d5p111eb3jsn97daf50df7bc"
+      }
+    }
+  }
+}
